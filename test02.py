@@ -1,2 +1,2 @@
 print('nibaba')
-print('asdasd')
+print('as')
